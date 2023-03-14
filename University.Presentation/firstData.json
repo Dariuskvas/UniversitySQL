@@ -1,0 +1,111 @@
+{
+  "Departament": [
+    {
+      "name": "Elektronika"
+    },
+    {
+      "name": "Programavimas"
+    },
+    {
+      "name": "Mechanika"
+    },
+    {
+      "name": "Verslo vadyba"
+    },
+    {
+      "name": "Fundamentiniai mokslai"
+    }
+  ],
+
+  "Lecture": [
+    {
+      "name": "Matematika",
+      "departamentString": "1, 2, 3"
+    },
+    {
+      "name": "Fizika",
+      "departamentString": "2, 3, 4"
+    },
+    {
+      "name": "Medziagu atsparumas",
+      "departamentString": "3, 4, 0"
+    },
+    {
+      "name": "Daiktų internetas",
+      "departamentString": "4, 0, 1"
+    },
+    {
+      "name": "Automatika",
+      "departamentString": "0, 1, 2"
+    },
+    {
+      "name": "Dirbtinio intelekto sistemos",
+      "departamentString": "1, 2, 3"
+    },
+    {
+      "name": "Elektros energetikos inžinerija",
+      "departamentString": "2, 3, 4"
+    },
+    {
+      "name": "Informacinės ir ryšių technologijos",
+      "departamentString": "3, 4, 0"
+    },
+    {
+      "name": "Kompiuterių inžinerija",
+      "departamentString": "3, 4, 0"
+    }
+  ],
+
+  "Student": [
+    {
+      "fname": "Vardas1",
+      "lname": "Pavarde1",
+      "departament": "1"
+    },
+    {
+      "fname": "Vardas2",
+      "lname": "Pavarde2",
+      "departament": "2"
+    },
+    {
+      "fname": "Vardas3",
+      "lname": "Pavarde3",
+      "departament": "2"
+    },
+    {
+      "fname": "Vardas4",
+      "lname": "Pavarde4",
+      "departament": "3"
+    },
+    {
+      "fname": "Vardas5",
+      "lname": "Pavarde5",
+      "departament": "4"
+    },
+    {
+      "fname": "Vardas6",
+      "lname": "Pavarde6",
+      "departament": "0"
+    },
+    {
+      "fname": "Vardas7",
+      "lname": "Pavarde7",
+      "departament": "4"
+    },
+    {
+      "fname": "Vardas8",
+      "lname": "Pavarde8",
+      "departament": "4"
+    },
+    {
+      "fname": "Vardas9",
+      "lname": "Pavarde9",
+      "departament": "0"
+    },
+    {
+      "fname": "Vardas10",
+      "lname": "Pavarde10",
+      "departament": "0"
+    }
+  ]
+}

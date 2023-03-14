@@ -1,0 +1,15 @@
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\bin\Debug\net7.0\University.BusinessLogic.deps.json
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\bin\Debug\net7.0\University.BusinessLogic.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\bin\Debug\net7.0\University.BusinessLogic.pdb
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\bin\Debug\net7.0\University.Respository.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\bin\Debug\net7.0\University.Respository.pdb
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.AssemblyInfo.cs
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.csproj.CopyComplete
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\refint\University.BusinessLogic.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\University.BusinessLogic.pdb
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.BusinessLogic\obj\Debug\net7.0\ref\University.BusinessLogic.dll

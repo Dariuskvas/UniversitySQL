@@ -1,0 +1,12 @@
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.AssemblyInfo.cs
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\bin\Debug\net7.0\University.Respository.deps.json
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\bin\Debug\net7.0\University.Respository.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\bin\Debug\net7.0\University.Respository.pdb
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\refint\University.Respository.dll
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\University.Respository.pdb
+C:\Users\Darius\Desktop\baigiamasis\University.Respository\University.Respository\obj\Debug\net7.0\ref\University.Respository.dll
